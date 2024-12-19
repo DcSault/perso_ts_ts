@@ -83,4 +83,4 @@ dependencies: []
 path: ""
 defaultUsername: serveradmin
 deterministicPassword: true
-disabled: true
+disabled: false
